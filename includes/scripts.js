@@ -7,7 +7,7 @@ include( `
 
     <!-- material-scrolltop button -->
     <button class="material-scrolltop red" type="button"></button>
-    <script src="/js/material-scrolltop.js"></script>
+    <script src="./js/material-scrolltop.js"></script>
     <script>
         $('body').materialScrollTop();
     </script>
