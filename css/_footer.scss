@@ -1,0 +1,39 @@
+footer {
+    margin-top: -20px;
+    margin-bottom: -20px;
+
+    .container{
+        width: 100%;
+        max-width: calc(100vw - 100px);
+        margin-left: 50px;
+        margin-right: 50px;
+        scroll-margin-top: 150px;
+
+        .raw{
+            max-width: calc(100vw - 100px);
+            margin-left: 50px;
+            margin-right: 50px;
+        }
+    }
+
+    h5{
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 20px;
+    }
+
+    a{
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 16px;
+        line-height: 25px;
+
+        &:hover{
+            color: #D4A94E !important;
+        }
+    }
+
+    p{
+        font-family: 'Noto Serif', serif;
+        font-size: 16px;
+        line-height: 25px;
+    }
+}

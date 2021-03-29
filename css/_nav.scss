@@ -1,0 +1,65 @@
+@media (max-width: 600px) {
+    .navbar-fixed{
+        .nav-wrapper{
+            width: 100% !important;
+        }
+        .container{
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+
+        img.move {
+            display: none;
+        }
+
+        .brand-logo{
+            margin-left: 20px !important;
+        }
+    }
+}
+
+.navbar-fixed{
+    .white{
+        height: 100px;
+        line-height: 100px;
+    }
+
+    .nav-wrapper{
+        width: 100%;
+    }
+
+    .container{
+        max-width: calc(100vw - 100px);
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    nav ul a, nav {
+        font-family: 'Poppins', sans-serif;
+        color: #858585;
+        font-size: 1.2rem;
+
+        &:hover{
+            color: #E2001A;
+            background-color: white;
+        }
+    }
+
+    img.move{
+        margin-top: 0px;
+        // position: -webkit-sticky;
+        // position: sticky;
+        // margin-top: 100px;
+        height: 100px;
+    }
+
+    img {
+        margin-top: 0px;
+        height: 100px;
+    }
+}
+
+#sidenav-overlay{
+    // display: none;
+    z-index: 20;
+}
