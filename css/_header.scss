@@ -13,17 +13,18 @@
     }
 
     .content {
-        position: absolute;
-        height: calc(80vh - 100px);
-        width: calc(100vw - 100px);
-        margin-top: 0;
-        margin-left: 50px;
-        margin-right: 50px;
+        // position: absolute;
+        // height: calc(80vh - 100px);
+        // width: calc(100vw - 100px);
+        // margin-top: 0;
+        // margin-left: 50px;
+        // margin-right: 50px;
 
 
         display: flex;
         align-items: center;
         justify-content: flex-end;
+        height: 100%;
     }
 
     h1{
