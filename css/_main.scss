@@ -15,18 +15,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: 2em;
 }
 
-@media (max-width: 600px) {
-    .s0{
-        display: none;
-    }
-
-    .main{
-        .droite{
-            margin-top: 0px !important;
-        }
-    }
-}
-
 html,body
 {
 overflow-x: hidden;
@@ -103,7 +91,8 @@ footer {
         // max-width: calc(100vw - 100px);
         // margin-left: 50px;
         // margin-right: 50px;
-        // scroll-margin-top: 150px;
+
+        width: calc(100% - 64px);
         max-width: 80ch;
         padding-top: 80px;
         padding-bottom: 80px;
@@ -224,5 +213,26 @@ footer {
     .agenda .card-title {
         font-size: 16px;
         font-weight: 500;
+    }
+}
+
+@media (max-width: 600px) {
+    .s0{
+        display: none;
+    }
+
+    .main{
+        .droite{
+            margin-top: 0px !important;
+        }
+
+        .container {
+            padding-top: 0;
+            padding-top: 0;
+        }
+    }
+    
+    .container {
+        scroll-margin-top: 150px;
     }
 }
