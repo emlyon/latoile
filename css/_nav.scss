@@ -1,18 +1,4 @@
-@media (max-width: 600px) {
-    .navbar-fixed{
-        .nav-wrapper{
-            width: 100% !important;
-        }
-        .container{
-            margin-left: 0px !important;
-            margin-right: 0px !important;
-        }
 
-        .brand-logo{
-            margin-left: 20px !important;
-        }
-    }
-}
 
 .navbar-fixed{
     .white{
@@ -50,4 +36,20 @@
 #sidenav-overlay{
     // display: none;
     z-index: 20;
+}
+
+@media (max-width: 600px) {
+    .navbar-fixed{
+        .nav-wrapper{
+            width: 100% !important;
+        }
+        .container{
+            margin-left: 0px !important;
+            margin-right: 0px !important;
+        }
+
+        .brand-logo{
+            margin-left: 20px !important;
+        }
+    }
 }
