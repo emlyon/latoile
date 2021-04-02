@@ -20,9 +20,9 @@ include( `
 
                     <p class="grey-text text-lighten-4">
                         <ul>
-                            <li><a class="white-text" href="#">Lyon</a></li>
-                            <li><a class="white-text" href="#">Saint-Étienne</a></li>
-                            <li><a class="white-text" href="#">Paris</a></li>
+                            <li><a target="_blank" class="white-text" href="https://www.google.fr/maps/place/emlyon+business+school/@45.7862541,4.7635158,3a,75y,71.14h,92.27t/data=!3m7!1e1!3m5!1sAF1QipMQGcpJbcFoe25k0r2lQr13V8sl5dpqJTkm533_!2e10!3e11!7i13312!8i6656!4m5!3m4!1s0x47f4ecc1f92a9f33:0x19d7ecf50a69094c!8m2!3d45.786447!4d4.764139">Lyon-Écully</a></li>
+                            <li><a target="_blank" class="white-text" href="https://www.google.fr/maps/@45.4273794,4.4025525,3a,75y,357h,90t/data=!3m8!1e1!3m6!1swcJZq1adZCIAAAQvOtq2pw!2e0!3e2!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DwcJZq1adZCIAAAQvOtq2pw%26output%3Dthumbnail%26cb_client%3Dsearch.TACTILE.gps%26thumb%3D2%26w%3D86%26h%3D86%26yaw%3D357.77637%26pitch%3D0!7i13312!8i6656">Saint-Étienne</a></li>
+                            <li><a target="_blank" class="white-text" href="https://www.google.fr/maps/place/Emlyon+Business+School/@48.8457021,2.3713141,3a,60y,90t/data=!3m7!1e1!3m5!1szkHYseuNGlIAAAQ7Ls8-YA!2e0!3e2!7i13312!8i6656!4m5!3m4!1s0x47e6720354834da9:0x848b51d1875da34c!8m2!3d48.845996!4d2.3713579">Paris</a></li>
                         </ul>
                     </p>
                 </div>
