@@ -42,9 +42,9 @@ include( `
 
                     <p class="grey-text text-lighten-4">
                         Vous pouvez nous contacter par mail :</br>
-                        <a target="_blank" class="white-text" href="mailto:contact@latoile.em-lyon.com">contact@latoile.em-lyon.com</a></br>
+                        <a target="_blank" class="white-text" href="mailto:latoile@em-lyon.com">latoile@em-lyon.com</a></br>
                         Ou par téléphone :</br>
-                        <a target="_blank" class="white-text" href="tel:0478337800">04 78 33 78 00</a>
+                        <a target="_blank" class="white-text" href="tel:0478337800">04 78 18 46 06</a>
                     </p>
                 </div>
 
