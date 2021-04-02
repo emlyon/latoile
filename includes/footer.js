@@ -61,7 +61,7 @@ include( `
                 <div class="col l3 s12"></div>
                 <div class="col l3 s12">
                     <p>
-                        <a target="_blank" class="white-text" href="https://twitter.com/makerslab_">Twitter</a> | <a target="_blank" class="white-text" href="https://www.instagram.com/makerslab_/">Instagram</a> | <a target="_blank" class="white-text" href="https://github.com/emlyon">Github</a>
+                        <a target="_blank" class="white-text" href="https://www.tiktok.com/@latoile_edu">TikTok</a> | <a target="_blank" class="white-text" href="https://www.instagram.com/latoile_edu/">Instagram</a> | <a target="_blank" class="white-text" href="https://github.com/emlyon">Github</a>
                     </ul>
                     </p>
                     </br></br>
