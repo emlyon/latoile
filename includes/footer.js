@@ -33,7 +33,7 @@ include( `
                     <h5 class="white-text">L'&#198;SCRA</h5>
 
                     <p class="grey-text text-lighten-4">
-                        L'&#198;SCRA est une association à but non lucratif. Elle a pour objectif de contribuer à la réduction des inégalités sociales ou culturelles en développant des formations professionnelles.
+                        La toile est une formation portée par l'&#198;SCRA, une association à but non lucratif qui vise à réduire des inégalités sociales ou culturelles en développant des formations professionnelles accessibles au plus grand nombre.
                     </p>
                 </div>
 
