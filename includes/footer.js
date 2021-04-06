@@ -33,7 +33,7 @@ include( `
                     <h5 class="white-text">L'&#198;SCRA</h5>
 
                     <p class="grey-text text-lighten-4">
-                        <strong>la toile</strong> est une formation portée par l'&#198;SCRA, une association à but non lucratif qui vise à réduire des inégalités sociales ou culturelles en développant des formations professionnelles accessibles au plus grand nombre.
+                        <b>la toile</b> est une formation portée par l'&#198;SCRA, une association à but non lucratif qui vise à réduire des inégalités sociales ou culturelles en développant des formations professionnelles accessibles au plus grand nombre.
                     </p>
                 </div>
 
