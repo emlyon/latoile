@@ -53,12 +53,11 @@ include( `
             <div class="row"><hr></div>
 
             <div class="row">
-                <div class="col l6 s12">
+                <div class="col l9 s12">
                     <p>
-                        <a target="_blank" class="white-text" href="https://www.em-lyon.com/fr">Tous droits réservés &#169; emlyon business school</a> | <a class="white-text" href="#">mentions légales</a>
+                        <a target="_blank" class="white-text" href="https://www.em-lyon.com/fr">Tous droits réservés &#169; emlyon business school</a> | <a class="white-text" href="./legacy.html">mentions légales</a> | <a class="white-text" href="./privacy.html">politique de confidentialité</a>
                     </p>
                 </div>
-                <div class="col l3 s12"></div>
                 <div class="col l3 s12">
                     <p>
                         <a target="_blank" class="white-text" href="https://www.tiktok.com/@latoile_edu">TikTok</a> | <a target="_blank" class="white-text" href="https://www.instagram.com/latoile_edu/">Instagram</a> | <a target="_blank" class="white-text" href="https://github.com/emlyon">Github</a>
