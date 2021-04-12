@@ -55,7 +55,7 @@ include( `
             <div class="row">
                 <div class="col l9 s12">
                     <p>
-                        <a target="_blank" class="white-text" href="https://www.em-lyon.com/fr">Tous droits réservés &#169; emlyon business school</a> | <a class="white-text" href="./legacy.html">mentions légales</a> | <a class="white-text" href="./privacy.html">politique de confidentialité</a>
+                        <a target="_blank" class="white-text" href="https://www.em-lyon.com/fr">Tous droits réservés &#169; emlyon business school</a> | <a class="white-text" href="./legacy.html">mentions légales</a> | <a class="white-text" href="./privacy.html">politique de confidentialité</a> | <a class="white-text" href="./cookies.html">cookies</a>
                     </p>
                 </div>
                 <div class="col l3 s12">
